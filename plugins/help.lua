@@ -98,7 +98,7 @@ end
 -- !available command
 local function telegram_help()
   local i = 0
-  local text = "Plugins list for spammer-bot:\n\n"
+  local text = "Plugins list for spammerbot:\n\n"
   -- Plugins names
   for name in pairsByKeys(plugins) do
     if plugins[name].hidden then
