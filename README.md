@@ -25,6 +25,10 @@ movafagh va sarboland bashid :)
 # [SorBlack](telegram.me/SorBlack)
 
 hatman ghabl launch plugine (autoaddersudo) ro check konid
-
+-------------------------
+#for fast install
+```
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev && git clone https://github.com/SorBlackPlus/spammer && cd spammer && ./launch.sh install && ./launch.sh
+```
 
 #for Help More Please Send Massage to `@PmSorBlackBot`[@PmSorBlack](Https://t.me/PmsorBlackbot)
