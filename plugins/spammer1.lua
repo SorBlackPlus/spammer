@@ -5,7 +5,7 @@ function run(msg, matches)
               return " "       end
   local tex = matches[1]
   local sps = matches[2]
-  local sp = 'done by BlackLifeTM'
+  local sp = 'done by PrimeTeam'
 
 for i=1, tex, 1 do
 
